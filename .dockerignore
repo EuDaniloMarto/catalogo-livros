@@ -1,0 +1,9 @@
+.editorconfig
+.gitattributes
+.github
+.gitignore
+.pre-commit-config.yaml
+.readthedocs.yml
+.venv
+.git
+node_modules

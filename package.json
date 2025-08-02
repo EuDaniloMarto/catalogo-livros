@@ -1,0 +1,20 @@
+{
+  "name": "catalogo-livros",
+  "version": "0.1.0",
+  "description": "Catálogo de livros",
+  "homepage": "https://github.com/EuDaniloMarto/catalogo-livros#readme",
+  "bugs": {
+    "url": "https://github.com/EuDaniloMarto/catalogo-livros/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EuDaniloMarto/catalogo-livros.git"
+  },
+  "license": "MIT",
+  "author": "Danilo Marto de Carvalho",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
